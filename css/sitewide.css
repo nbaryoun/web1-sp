@@ -41,6 +41,7 @@ body {
 	something wrong. 	
 */
 .container {
+	color: white;
 	margin-top: 1em;
 	margin-right: auto;
 	margin-bottom: 1em;
