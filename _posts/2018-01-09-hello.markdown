@@ -1,6 +1,0 @@
----
-title: "Hello world"
-description: "This text shows uppp in search engine previews"
----
-
-This is a post. Rename the file and replace it with a real post.
