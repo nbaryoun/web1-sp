@@ -30,7 +30,7 @@
 
 	<div class="posts">
 		{% for post in site.posts %}
-			<article>
+			<article class="onePost">
 				<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
 				<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
 				{{ post.teaser }}        
