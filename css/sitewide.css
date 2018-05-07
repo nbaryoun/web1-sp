@@ -55,6 +55,8 @@ body {
 .mainTitle {
 	font: bigger;
 	text-align: center;
+	padding-bottom: 5%;
+	border-bottom: 1px solid white;
 }
 
 .posts {
