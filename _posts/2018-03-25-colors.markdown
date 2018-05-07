@@ -1,0 +1,10 @@
+---
+title: Color Palettes
+---
+
+I've always had trouble with color palettes. I have a very sharp sense to what works and what doesn't when something is presented to me, but for me to just create one on my own from my head is so hard for me. It's quite frustrating.
+
+Luckily, I stumbled across the Adobe color picker recently:
+https://color.adobe.com/create/color-wheel/
+
+Has solved some, but not all, of my color picking anxieties.
