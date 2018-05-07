@@ -2,4 +2,4 @@
 title: CSS Grid, the new wave.
 ---
 
-Test.
+In my opinion, CSS grid is the most exciting thing to happen in the front-end development world for a while. It basically renders bootstrap useless (but who was still using bootstrap anyways?) and makes like sooooo much easier. What an exciting time we live in. Layouts, layouts, and more layouts.
