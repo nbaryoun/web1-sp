@@ -1,0 +1,5 @@
+---
+title: Animations Dawg
+---
+
+Every once in a while, I need something to re-energize myself about tech & programming. The most recent has gotta be something called p5.js. It's a library (p5js.org for more) which allows for easy animations, used by artists and programmers alike. Such cool technology out there. Can't wait to use it.
