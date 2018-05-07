@@ -58,8 +58,12 @@ body {
 }
 
 .posts {
-	background-color: #9C615B;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 0.2rem;
+}
+
+.onePost {
+	background-color: #9C615B;
+	text-align: center;
 }
